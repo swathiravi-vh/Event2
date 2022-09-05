@@ -1,0 +1,21 @@
+.outline{
+    border:2px solid black;
+    height:800px;
+    width:1200px;
+    margin:30px;
+}
+.h1{
+    border:1px solid black;
+    height: 100px;
+    width:160px;
+    margin-top: 20px;
+}
+.boxp{
+    margin:20px;
+    border:1px solid black;
+    height: 230px;
+    width:200px;
+}
+.h3{
+    text-align: center;
+}
